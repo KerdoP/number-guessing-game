@@ -29,6 +29,7 @@
 # end
 
 # Võtsin eelmise koodi näiteks 
+# Et runnida koodi peab olema Ruby installed ja kasutama commandi `ruby guessing_game.rb`
 
 puts "Epic game of epicness"
 
